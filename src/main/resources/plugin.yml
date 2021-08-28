@@ -1,0 +1,10 @@
+name: AutoKillPhantoms
+version: ${project.version}
+main: me.huawind.light.autokillphantoms.AutoKillPhantoms
+api-version: 1.17
+authors: [ Huawind ]
+description: This is a plugin to kill phantoms made for Light
+commands:
+  pkill:
+    description: kill phantoms
+    permission: light.pkill
